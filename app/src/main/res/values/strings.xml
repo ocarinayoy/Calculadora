@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="btn_clear_all">AC</string>
+    <string name="btn_delete">DEL</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_7">7</string>
+    <string name="btn_equals">=</string>
+    <string name="display_description">Pantalla de operaciones</string>
+</resources>
